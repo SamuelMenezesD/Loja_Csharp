@@ -72,8 +72,6 @@ app.MapPut("/produtos/{id}", async (int id, LojaDbContext dbContext, Produto upd
     return Results.Ok(existingProduto);
 });
 
-//Criar um novo cliente
-
 app.MapPost("/createcliente", async (LojaDbContext DbContext, Cliente newCliente) =>
 {
     DbContext.Clientes.Add(newCliente);
@@ -127,7 +125,6 @@ app.MapPut("/clientes/{id}", async (int id, LojaDbContext dbContext, Cliente upd
     return Results.Ok(existingCliente);
 });
 
-//Desafio
 
 app.MapPost("/createfornecedor", async (LojaDbContext DbContext, Fornecedor newFornecedor) =>
 {

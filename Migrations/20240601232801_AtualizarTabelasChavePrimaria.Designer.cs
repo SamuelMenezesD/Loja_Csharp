@@ -14,7 +14,6 @@ namespace Loja.Migrations
     [Migration("20240601232801_AtualizarTabelasChavePrimaria")]
     partial class AtualizarTabelasChavePrimaria
     {
-        /// <inheritdoc />
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618

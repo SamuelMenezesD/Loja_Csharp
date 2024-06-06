@@ -5,10 +5,8 @@ using Microsoft.EntityFrameworkCore.Migrations;
 
 namespace Loja.Migrations
 {
-    /// <inheritdoc />
     public partial class AddCliente : Migration
     {
-        /// <inheritdoc />
         protected override void Up(MigrationBuilder migrationBuilder)
         {
             migrationBuilder.CreateTable(
@@ -30,8 +28,6 @@ namespace Loja.Migrations
                 })
                 .Annotation("MySql:CharSet", "utf8mb4");
         }
-
-        /// <inheritdoc />
         protected override void Down(MigrationBuilder migrationBuilder)
         {
             migrationBuilder.DropTable(

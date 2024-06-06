@@ -14,7 +14,6 @@ namespace Loja.Migrations
     [Migration("20240601225400_AddCliente")]
     partial class AddCliente
     {
-        /// <inheritdoc />
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
