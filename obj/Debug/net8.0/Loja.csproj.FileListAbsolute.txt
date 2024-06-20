@@ -316,3 +316,11 @@ C:\Users\samue\Desktop\manito\faculdade\terceiro semestre\topicos\Loja\obj\Debug
 C:\Users\samue\Desktop\manito\faculdade\terceiro semestre\topicos\Loja\obj\Debug\net8.0\Loja.pdb
 C:\Users\samue\Desktop\manito\faculdade\terceiro semestre\topicos\Loja\obj\Debug\net8.0\Loja.genruntimeconfig.cache
 C:\Users\samue\Desktop\manito\faculdade\terceiro semestre\topicos\Loja\obj\Debug\net8.0\ref\Loja.dll
+C:\Users\samue\Desktop\manito\faculdade\terceiro semestre\topicos\Loja\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\samue\Desktop\manito\faculdade\terceiro semestre\topicos\Loja\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\samue\Desktop\manito\faculdade\terceiro semestre\topicos\Loja\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\samue\Desktop\manito\faculdade\terceiro semestre\topicos\Loja\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\samue\Desktop\manito\faculdade\terceiro semestre\topicos\Loja\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\samue\Desktop\manito\faculdade\terceiro semestre\topicos\Loja\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\samue\Desktop\manito\faculdade\terceiro semestre\topicos\Loja\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\samue\Desktop\manito\faculdade\terceiro semestre\topicos\Loja\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
